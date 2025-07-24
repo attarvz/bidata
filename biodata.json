@@ -1,0 +1,24 @@
+
+[
+    
+    {
+        "nama" : "Muhammad tarikh", 
+        "tempat_lahir" : "Bandung",
+        "tenggal_lahir" : "2009-1-3",
+        "alamat" : {
+            "jalan" : "Rancamanyar",
+            "Komplek" : "Pesona Rancamanyar"
+        },
+        "HObi" : [
+            "Gaming",
+            "Musik",
+            "Sport"
+        ],
+        "Kontak" : {
+            "email" : "attarrmarhassvz@gmail.com",
+            "whatapp" : "083824202518",
+            "github" : "attarvz",
+            "instagram" : "attarv_"
+        }
+    }
+]

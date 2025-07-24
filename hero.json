@@ -1,0 +1,127 @@
+[
+    {
+        "Nama-Hero" : "Julian",
+        "Role" :{
+             
+             "Role-1" : "Assasin",
+             "Role-2" : "Fighter"
+        },
+        "win-Rate" : "51.58%",
+        "Pick-Rate" : "0.73%",
+        "Ban-Rate" : "5.22%",
+        "Skill" : { 
+            "Skill-1" : "Smith's-Legacy",
+            "Skill-2" : "Scythe",
+            "Skill-3" : "Sword",
+            "Ultimate" : "Chain"
+    },
+    
+        "Hero-Counter" : [
+             "Sun",
+             "Esmeralda",
+            "Uranus",
+            "X-Borg",
+            "Mellisa"
+        ]
+    },
+      {
+        "Nama-Hero" : "Xavier",
+        "Role" : "Mage",
+        "win-Rate" : "52.52%",
+        "Pick-Rate" : "0.72%",
+        "Ban-Rate" : "0.27%",
+        "Skill" : { 
+            "Skill-1" : "Transcendence",
+            "Skill-2" : "Infinite-Extension",
+            "Skill-3" : "mystic-Field",
+            "Ultimate" : "Dawning-Light"
+    },
+    
+        "Hero-Counter" : [
+             "Barats",
+             "Gloo",
+            "Baxia",
+            "Blerik",
+            "Uranus"
+        ]
+    },
+
+    {
+        "Nama-Hero" : "Fredrinn",
+        "Role" :{
+             
+             "Role-1" : "Tank",
+             "Role-2" : "Fighter"
+        },
+        "win-Rate" : "52.22%",
+        "Pick-Rate" : "0.64%",
+        "Ban-Rate" : "4.24%",
+        "Skill" : { 
+            "Skill-1" : "crystalline-Armor",
+            "Skill-2" : "Piercing-Strike",
+            "Skill-3" : "Brave-Assault",
+            "Skill-4" : "Energy-Eruption",
+            "Ultimate" : "Appraiser's-Wrath"
+    },
+    
+        "Hero-Counter" : [
+             "Alucard",
+             "Karie",
+            "Eudora",
+            "Khaled",
+            "Uranus"
+        ]
+    },
+
+
+
+     {
+        "Nama-Hero" : "Natan",
+        "Role" : "Marksaman",
+        "win-Rate" : "53.04%",
+        "Pick-Rate" : "0.47%",
+        "Ban-Rate" : "0.54%",
+        "Skill" : { 
+            "Skill-1" : "Theory-Of-Everthing",
+            "Skill-2" : "Superposion",
+            "Skill-3" : "Interfarence",
+            "Ultimate" : "Endtropy"
+    },
+    
+        "Hero-Counter" : [
+             "Sun",
+             "Gloo",
+            "Esmeralda",
+            "Uranus",
+            "Mellisa"
+        ]
+    },
+
+
+     {
+        "Nama-Hero" : "Suyou",
+        "Role" :{
+             
+             "Role-1" : "Assasin",
+             "Role-2" : "Fighter"
+        },
+        "win-Rate" : "47.77%",
+        "Pick-Rate" : "0.44%",
+        "Ban-Rate" : "1.48%",
+        "Skill" : { 
+            "Skill-1" : "Transie-immortal",
+            "Skill-2" : "Blade-Surge",
+            "Skill-3" : "Soul-Sever",
+            "Ultimate" : "Evil-Querrer"
+    },
+    
+        "Hero-Counter" : [
+             "Sun",
+             "Lunox",
+            "Argus",
+            "Balmon",
+            "Mellisa"
+        ]
+    }
+    
+]
